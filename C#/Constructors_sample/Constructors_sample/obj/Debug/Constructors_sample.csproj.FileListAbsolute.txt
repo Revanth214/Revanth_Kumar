@@ -1,0 +1,6 @@
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\bin\Debug\Constructors_sample.exe.config
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\bin\Debug\Constructors_sample.exe
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\bin\Debug\Constructors_sample.pdb
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\obj\Debug\Constructors_sample.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\obj\Debug\Constructors_sample.exe
+C:\Users\cgang\source\repos\Constructors_sample\Constructors_sample\obj\Debug\Constructors_sample.pdb

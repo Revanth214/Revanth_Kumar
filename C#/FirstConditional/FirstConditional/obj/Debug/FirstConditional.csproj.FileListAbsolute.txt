@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\bin\Debug\FirstConditional.exe.config
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\bin\Debug\FirstConditional.exe
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\bin\Debug\FirstConditional.pdb
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\obj\Debug\FirstConditional.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\obj\Debug\FirstConditional.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\obj\Debug\FirstConditional.exe
+C:\Users\cgang\source\repos\FirstConditional\FirstConditional\obj\Debug\FirstConditional.pdb

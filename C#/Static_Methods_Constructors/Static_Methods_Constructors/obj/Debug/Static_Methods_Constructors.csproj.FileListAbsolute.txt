@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\bin\Debug\Static_Methods_Constructors.exe.config
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\bin\Debug\Static_Methods_Constructors.exe
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\bin\Debug\Static_Methods_Constructors.pdb
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\obj\Debug\Static_Methods_Constructors.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\obj\Debug\Static_Methods_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\obj\Debug\Static_Methods_Constructors.exe
+C:\Users\cgang\source\repos\Static_Methods_Constructors\Static_Methods_Constructors\obj\Debug\Static_Methods_Constructors.pdb

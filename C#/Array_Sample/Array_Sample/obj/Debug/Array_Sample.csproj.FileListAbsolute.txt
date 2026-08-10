@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\bin\Debug\Array_Sample.exe.config
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\bin\Debug\Array_Sample.exe
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\bin\Debug\Array_Sample.pdb
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\obj\Debug\Array_Sample.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\obj\Debug\Array_Sample.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\obj\Debug\Array_Sample.exe
+C:\Users\cgang\source\repos\Array_Sample\Array_Sample\obj\Debug\Array_Sample.pdb

@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\bin\Debug\FirstFunction.exe.config
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\bin\Debug\FirstFunction.exe
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\bin\Debug\FirstFunction.pdb
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\obj\Debug\FirstFunction.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\obj\Debug\FirstFunction.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\obj\Debug\FirstFunction.exe
+C:\Users\cgang\source\repos\FirstFunction\FirstFunction\obj\Debug\FirstFunction.pdb

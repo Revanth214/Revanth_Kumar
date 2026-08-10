@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\cgang\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

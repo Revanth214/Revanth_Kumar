@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Practice_File\Practice_File\obj\Debug\Practice_File.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Practice_File\Practice_File\obj\Debug\Practice_File.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Practice_File\Practice_File\bin\Debug\Practice_File.exe.config
+C:\Users\cgang\source\repos\Practice_File\Practice_File\bin\Debug\Practice_File.exe
+C:\Users\cgang\source\repos\Practice_File\Practice_File\bin\Debug\Practice_File.pdb
+C:\Users\cgang\source\repos\Practice_File\Practice_File\obj\Debug\Practice_File.exe
+C:\Users\cgang\source\repos\Practice_File\Practice_File\obj\Debug\Practice_File.pdb

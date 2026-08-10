@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\obj\Debug\Inheritance_sample.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\obj\Debug\Inheritance_sample.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\bin\Debug\Inheritance_sample.exe.config
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\bin\Debug\Inheritance_sample.exe
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\bin\Debug\Inheritance_sample.pdb
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\obj\Debug\Inheritance_sample.exe
+C:\Users\cgang\source\repos\Inheritance_sample\Inheritance_sample\obj\Debug\Inheritance_sample.pdb

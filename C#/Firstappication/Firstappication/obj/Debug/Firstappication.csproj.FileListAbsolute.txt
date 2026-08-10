@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Firstappication\Firstappication\bin\Debug\Firstappication.exe.config
+C:\Users\cgang\source\repos\Firstappication\Firstappication\bin\Debug\Firstappication.exe
+C:\Users\cgang\source\repos\Firstappication\Firstappication\bin\Debug\Firstappication.pdb
+C:\Users\cgang\source\repos\Firstappication\Firstappication\obj\Debug\Firstappication.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Firstappication\Firstappication\obj\Debug\Firstappication.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Firstappication\Firstappication\obj\Debug\Firstappication.exe
+C:\Users\cgang\source\repos\Firstappication\Firstappication\obj\Debug\Firstappication.pdb

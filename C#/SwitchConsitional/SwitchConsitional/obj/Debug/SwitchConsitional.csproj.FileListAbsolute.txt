@@ -1,0 +1,6 @@
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\bin\Debug\SwitchConsitional.exe.config
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\bin\Debug\SwitchConsitional.exe
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\bin\Debug\SwitchConsitional.pdb
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\obj\Debug\SwitchConsitional.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\obj\Debug\SwitchConsitional.exe
+C:\Users\cgang\source\repos\SwitchConsitional\SwitchConsitional\obj\Debug\SwitchConsitional.pdb

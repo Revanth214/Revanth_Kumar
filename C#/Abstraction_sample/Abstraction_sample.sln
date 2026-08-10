@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37507.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction_sample", "Abstraction_sample\Abstraction_sample.csproj", "{417872D4-1E22-4EF7-A90C-3A8D9732702A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417872D4-1E22-4EF7-A90C-3A8D9732702A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417872D4-1E22-4EF7-A90C-3A8D9732702A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417872D4-1E22-4EF7-A90C-3A8D9732702A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417872D4-1E22-4EF7-A90C-3A8D9732702A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73FD802D-FE9F-4055-A71E-59405B450800}
+	EndGlobalSection
+EndGlobal

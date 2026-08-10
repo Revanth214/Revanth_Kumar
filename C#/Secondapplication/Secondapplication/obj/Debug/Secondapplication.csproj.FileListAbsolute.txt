@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\bin\Debug\Secondapplication.exe.config
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\bin\Debug\Secondapplication.exe
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\bin\Debug\Secondapplication.pdb
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\obj\Debug\Secondapplication.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\obj\Debug\Secondapplication.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\obj\Debug\Secondapplication.exe
+C:\Users\cgang\source\repos\Secondapplication\Secondapplication\obj\Debug\Secondapplication.pdb

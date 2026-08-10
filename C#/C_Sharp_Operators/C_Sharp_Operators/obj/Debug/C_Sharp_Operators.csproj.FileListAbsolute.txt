@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\bin\Debug\C_Sharp_Operators.exe.config
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\bin\Debug\C_Sharp_Operators.exe
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\bin\Debug\C_Sharp_Operators.pdb
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\obj\Debug\C_Sharp_Operators.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\obj\Debug\C_Sharp_Operators.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\obj\Debug\C_Sharp_Operators.exe
+C:\Users\cgang\source\repos\C_Sharp_Operators\C_Sharp_Operators\obj\Debug\C_Sharp_Operators.pdb

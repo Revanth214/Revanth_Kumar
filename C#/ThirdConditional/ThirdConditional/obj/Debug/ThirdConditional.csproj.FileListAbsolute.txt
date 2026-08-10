@@ -1,0 +1,6 @@
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\bin\Debug\ThirdConditional.exe.config
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\bin\Debug\ThirdConditional.exe
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\bin\Debug\ThirdConditional.pdb
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\obj\Debug\ThirdConditional.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\obj\Debug\ThirdConditional.exe
+C:\Users\cgang\source\repos\ThirdConditional\ThirdConditional\obj\Debug\ThirdConditional.pdb

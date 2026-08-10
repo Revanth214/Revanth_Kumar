@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\bin\Debug\Encapsulation_sample.exe.config
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\bin\Debug\Encapsulation_sample.exe
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\bin\Debug\Encapsulation_sample.pdb
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\obj\Debug\Encapsulation_sample.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\obj\Debug\Encapsulation_sample.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\obj\Debug\Encapsulation_sample.exe
+C:\Users\cgang\source\repos\Encapsulation_sample\Encapsulation_sample\obj\Debug\Encapsulation_sample.pdb

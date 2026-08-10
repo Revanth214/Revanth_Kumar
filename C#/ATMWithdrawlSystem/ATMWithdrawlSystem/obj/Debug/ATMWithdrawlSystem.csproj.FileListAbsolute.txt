@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\bin\Debug\ATMWithdrawlSystem.exe.config
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\bin\Debug\ATMWithdrawlSystem.exe
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\bin\Debug\ATMWithdrawlSystem.pdb
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\obj\Debug\ATMWithdrawlSystem.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\obj\Debug\ATMWithdrawlSystem.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\obj\Debug\ATMWithdrawlSystem.exe
+C:\Users\cgang\source\repos\ATMWithdrawlSystem\ATMWithdrawlSystem\obj\Debug\ATMWithdrawlSystem.pdb

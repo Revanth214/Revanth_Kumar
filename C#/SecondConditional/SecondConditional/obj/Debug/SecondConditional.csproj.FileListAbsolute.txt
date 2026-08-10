@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\bin\Debug\SecondConditional.exe.config
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\bin\Debug\SecondConditional.exe
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\bin\Debug\SecondConditional.pdb
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\obj\Debug\SecondConditional.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\obj\Debug\SecondConditional.exe
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\obj\Debug\SecondConditional.pdb
+C:\Users\cgang\source\repos\SecondConditional\SecondConditional\obj\Debug\SecondConditional.csproj.AssemblyReference.cache

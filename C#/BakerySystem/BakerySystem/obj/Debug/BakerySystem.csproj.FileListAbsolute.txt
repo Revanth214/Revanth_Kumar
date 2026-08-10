@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe.config
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\bin\Debug\BakerySystem.pdb
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\obj\Debug\BakerySystem.exe
+C:\Users\cgang\source\repos\BakerySystem\BakerySystem\obj\Debug\BakerySystem.pdb
