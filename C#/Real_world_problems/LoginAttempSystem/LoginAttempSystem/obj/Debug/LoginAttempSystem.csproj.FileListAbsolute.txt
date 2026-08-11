@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\bin\Debug\LoginAttempSystem.exe.config
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\bin\Debug\LoginAttempSystem.exe
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\bin\Debug\LoginAttempSystem.pdb
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\obj\Debug\LoginAttempSystem.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\obj\Debug\LoginAttempSystem.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\obj\Debug\LoginAttempSystem.exe
+C:\Users\cgang\source\repos\LoginAttempSystem\LoginAttempSystem\obj\Debug\LoginAttempSystem.pdb

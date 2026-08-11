@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\bin\Debug\ProductInventory.exe.config
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\bin\Debug\ProductInventory.exe
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\bin\Debug\ProductInventory.pdb
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\obj\Debug\ProductInventory.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\obj\Debug\ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\obj\Debug\ProductInventory.exe
+C:\Users\cgang\source\repos\ProductInventory\ProductInventory\obj\Debug\ProductInventory.pdb

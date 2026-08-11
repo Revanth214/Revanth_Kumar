@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\bin\Debug\Student_Marks.exe.config
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\bin\Debug\Student_Marks.exe
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\bin\Debug\Student_Marks.pdb
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\obj\Debug\Student_Marks.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\obj\Debug\Student_Marks.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\obj\Debug\Student_Marks.exe
+C:\Users\cgang\source\repos\Student_Marks\Student_Marks\obj\Debug\Student_Marks.pdb

@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\bin\Debug\BankTransactioAnalyzer.exe.config
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\bin\Debug\BankTransactioAnalyzer.exe
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\bin\Debug\BankTransactioAnalyzer.pdb
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\obj\Debug\BankTransactioAnalyzer.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\obj\Debug\BankTransactioAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\obj\Debug\BankTransactioAnalyzer.exe
+C:\Users\cgang\source\repos\BankTransactioAnalyzer\BankTransactioAnalyzer\obj\Debug\BankTransactioAnalyzer.pdb

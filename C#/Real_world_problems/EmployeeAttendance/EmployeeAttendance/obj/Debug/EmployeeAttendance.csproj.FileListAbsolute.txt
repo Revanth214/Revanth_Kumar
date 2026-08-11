@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\EmployeeAttendance.exe.config
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\EmployeeAttendance.exe
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\bin\Debug\EmployeeAttendance.pdb
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\EmployeeAttendance.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\EmployeeAttendance.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\EmployeeAttendance.exe
+C:\Users\cgang\source\repos\EmployeeAttendance\EmployeeAttendance\obj\Debug\EmployeeAttendance.pdb

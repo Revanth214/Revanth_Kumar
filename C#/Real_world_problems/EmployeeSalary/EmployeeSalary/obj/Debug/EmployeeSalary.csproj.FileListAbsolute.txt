@@ -1,0 +1,7 @@
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Users\cgang\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
