@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_folder\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.pdb
