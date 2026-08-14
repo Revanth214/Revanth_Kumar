@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\bin\Debug\Inheritance_constructor_base.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\bin\Debug\Inheritance_constructor_base.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\bin\Debug\Inheritance_constructor_base.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\obj\Debug\Inheritance_constructor_base.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\obj\Debug\Inheritance_constructor_base.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\obj\Debug\Inheritance_constructor_base.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Inheritance_constructor_base\Inheritance_constructor_base\obj\Debug\Inheritance_constructor_base.pdb

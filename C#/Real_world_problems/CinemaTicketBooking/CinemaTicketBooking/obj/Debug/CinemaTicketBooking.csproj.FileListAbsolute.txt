@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\bin\Debug\CinemaTicketBooking.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\bin\Debug\CinemaTicketBooking.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\bin\Debug\CinemaTicketBooking.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\obj\Debug\CinemaTicketBooking.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\obj\Debug\CinemaTicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\obj\Debug\CinemaTicketBooking.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\CinemaTicketBooking\CinemaTicketBooking\obj\Debug\CinemaTicketBooking.pdb
