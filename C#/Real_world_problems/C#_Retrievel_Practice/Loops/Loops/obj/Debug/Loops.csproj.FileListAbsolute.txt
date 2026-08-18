@@ -1,0 +1,6 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Loops\Loops\obj\Debug\Loops.pdb
