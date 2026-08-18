@@ -13,7 +13,7 @@ namespace Type_Casting
             int num = 500000;
             double n = (double)num;
             double ab = 45789.75;
-            int cd = (int)(ab);
+            int cd = (int)(ab);         //feat: demonstrate implicit and explicit type casting
 
             Console.WriteLine("Int " + num);
             Console.WriteLine("Int to Double: " + n);

@@ -1,0 +1,6 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.pdb
