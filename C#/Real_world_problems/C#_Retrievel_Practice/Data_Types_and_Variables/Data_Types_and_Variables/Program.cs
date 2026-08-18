@@ -15,11 +15,11 @@ namespace Data_Types_and_Variables
             Console.WriteLine("Enter Employee Age: ");
             int Age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Employee Salary: ");
-            decimal Salary =Convert.ToInt32( Console.ReadLine());
+            decimal Salary =Convert.ToDecimal( Console.ReadLine());
             Console.WriteLine("Is employee still working : ");
-            string Is_Curr_Working = Console.ReadLine();
+            bool Is_Curr_Working = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("Enter Employee Initial: ");
-            string First_initial = Console.ReadLine();
+            char First_initial =Convert.ToChar( Console.ReadLine());
 
             Console.WriteLine("Employee Name: " + Name);
             Console.WriteLine("Employee Age: " + Age);
