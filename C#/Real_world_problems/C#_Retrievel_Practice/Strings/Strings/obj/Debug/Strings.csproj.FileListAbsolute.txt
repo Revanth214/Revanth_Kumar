@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Strings\Strings\obj\Debug\Strings.pdb
