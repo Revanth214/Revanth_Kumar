@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\bin\Debug\Static_VS_Non_Static.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\bin\Debug\Static_VS_Non_Static.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\bin\Debug\Static_VS_Non_Static.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\obj\Debug\Static_VS_Non_Static.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\obj\Debug\Static_VS_Non_Static.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\obj\Debug\Static_VS_Non_Static.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Static_VS_Non_Static\Static_VS_Non_Static\obj\Debug\Static_VS_Non_Static.pdb
