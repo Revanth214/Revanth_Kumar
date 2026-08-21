@@ -11,29 +11,29 @@ namespace Array_List
     {
         static void Main(string[] args)
         {
-            ArrayList members = new ArrayList();
+            ArrayList Skills = new ArrayList();
 
-            members.Add("C#");
-            members.Add("SQL");
-            members.Add("ASP.NET");
+            Skills.Add("C#");
+            Skills.Add("SQL");
+            Skills.Add("ASP.NET");
 
-            foreach (object mem in members)
+            foreach (object mem in Skills)
             {
                 Console.WriteLine(mem);
             }
-            members.Add("Azure");
-            members.Remove("SQL");
-            if (members.Contains("C#"))
+            Skills.Add("Azure");
+            Skills.Remove("SQL");
+            if (Skills.Contains("C#"))
             {
                 Console.WriteLine("C# Exists in this Array List");
             }
-            Console.WriteLine("Size of the ArrayList: " + members.Count);
+            Console.WriteLine("Size of the ArrayList: " + Skills.Count);
 
-            foreach (object arr in members)
+            foreach (object arr in Skills)
             {
                 Console.WriteLine($"{arr}");
             }
-            Console.WriteLine("First skill in the ArrayList: " + members[0]);
+            Console.WriteLine("First skill: " + Skills[0]);
 
             Console.ReadLine();
         }
