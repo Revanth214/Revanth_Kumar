@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\bin\Debug\List_Collection.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\bin\Debug\List_Collection.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\bin\Debug\List_Collection.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\obj\Debug\List_Collection.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\obj\Debug\List_Collection.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\obj\Debug\List_Collection.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Collection\List_Collection\obj\Debug\List_Collection.pdb
