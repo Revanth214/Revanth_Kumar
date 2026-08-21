@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\bin\Debug\List_Operations.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\bin\Debug\List_Operations.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\bin\Debug\List_Operations.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\obj\Debug\List_Operations.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\obj\Debug\List_Operations.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\obj\Debug\List_Operations.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\obj\Debug\List_Operations.pdb
