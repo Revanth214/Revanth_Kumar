@@ -9,9 +9,11 @@ namespace Application_Services
     class ApplicationService
     {
         public string ServiceName { get; private set; }
-        public ApplicationService(string service)
+        public int Port { get; set; }
+        public ApplicationService(string ServiceName, int Port)
         {
-            ServiceName = service;
+            this.ServiceName = ServiceName;
+            this.Port = Port;
         }
         public void start()
         {
@@ -23,12 +25,13 @@ namespace Application_Services
         }
         public void DisplayServiceIfo()
         {
-            Console.WriteLine("Service: Payment Processing Service.");
+            Console.WriteLine("Service: " + ServiceName);
+            Console.WriteLine("Port: " + Port);
         }
     }
     class PaymentService:ApplicationService
     {
-        public PaymentService(string service) : base(service)
+        public PaymentService(string service, int port) : base(service, port)
         {
 
         }
@@ -41,7 +44,7 @@ namespace Application_Services
     {
         static void Main(string[] args)
         {
-            PaymentService obj = new PaymentService("Payment Processing Service");
+            PaymentService obj = new PaymentService("Payment Processing Service",8080);
 
             obj.start();
             obj.DisplayServiceIfo();
