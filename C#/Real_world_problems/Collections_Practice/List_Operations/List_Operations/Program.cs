@@ -17,9 +17,9 @@ namespace List_Operations
             inventory.Add("SMG Ammo");
             inventory.Add("Grenade");
 
-            foreach(string itm in inventory)
+            for (int i = 0; i < inventory.Count; i++)
             {
-                Console.WriteLine($"{inventory.IndexOf(itm)} - {itm}");
+                Console.WriteLine($"{i} - {inventory[i]}");
             }
 
             inventory[3] = "Shotgun Ammo";
