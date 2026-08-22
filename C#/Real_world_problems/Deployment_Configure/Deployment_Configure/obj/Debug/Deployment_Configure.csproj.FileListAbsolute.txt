@@ -1,0 +1,6 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\bin\Debug\Deployment_Configure.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\bin\Debug\Deployment_Configure.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\bin\Debug\Deployment_Configure.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\obj\Debug\Deployment_Configure.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\obj\Debug\Deployment_Configure.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Deployment_Configure\Deployment_Configure\obj\Debug\Deployment_Configure.pdb
