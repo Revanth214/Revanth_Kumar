@@ -23,7 +23,7 @@ namespace Application_Services
         {
             Console.WriteLine("Payment Processing Service stopped.");
         }
-        public void DisplayServiceIfo()
+        public void DisplayServiceInfo()
         {
             Console.WriteLine("Service: " + ServiceName);
             Console.WriteLine("Port: " + Port);
@@ -47,7 +47,7 @@ namespace Application_Services
             PaymentService obj = new PaymentService("Payment Processing Service",8080);
 
             obj.start();
-            obj.DisplayServiceIfo();
+            obj.DisplayServiceInfo();
             obj.ProcessPayment();
             obj.stop();
 

@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\bin\Debug\Application_Logging.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\bin\Debug\Application_Logging.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\bin\Debug\Application_Logging.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\obj\Debug\Application_Logging.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\obj\Debug\Application_Logging.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\obj\Debug\Application_Logging.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Application_Logging\Application_Logging\obj\Debug\Application_Logging.pdb
