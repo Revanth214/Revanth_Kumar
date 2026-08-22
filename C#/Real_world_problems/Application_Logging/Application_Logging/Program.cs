@@ -26,8 +26,10 @@ namespace Application_Logging
         {
             API api = new API();
             api.Log("User requested /api/orders");
-            Application app = new API();
+            Application app = new Application();
             app.Log("User requested /api/orders");
+            Application App_api = new API();
+            App_api.Log("User requested /api/orders");
 
             Console.ReadLine();
         }
