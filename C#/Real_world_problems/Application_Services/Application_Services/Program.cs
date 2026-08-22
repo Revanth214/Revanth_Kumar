@@ -8,7 +8,11 @@ namespace Application_Services
 {
     class ApplicationService
     {
-        public string ServiceName;
+        public string ServiceName { get; private set; }
+        public ApplicationService(string service)
+        {
+            ServiceName = service;
+        }
         public void start()
         {
             Console.WriteLine("Payment Processing Service started.");
@@ -24,6 +28,10 @@ namespace Application_Services
     }
     class PaymentService:ApplicationService
     {
+        public PaymentService(string service) : base(service)
+        {
+
+        }
         public void ProcessPayment()
         {
             Console.WriteLine("Payment processed.");
@@ -33,8 +41,7 @@ namespace Application_Services
     {
         static void Main(string[] args)
         {
-            PaymentService obj = new PaymentService();
-            obj.ServiceName = "Payment Processing Service";
+            PaymentService obj = new PaymentService("Payment Processing Service");
 
             obj.start();
             obj.DisplayServiceIfo();
