@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37507.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Split_Method", "String_Split_Method\String_Split_Method.csproj", "{5AABF55C-EE50-405F-8C12-45CA421D5BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AABF55C-EE50-405F-8C12-45CA421D5BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AABF55C-EE50-405F-8C12-45CA421D5BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AABF55C-EE50-405F-8C12-45CA421D5BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AABF55C-EE50-405F-8C12-45CA421D5BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28723DF2-90C0-4D4D-A241-03B681117C33}
+	EndGlobalSection
+EndGlobal
