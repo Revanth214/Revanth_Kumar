@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\bin\Debug\Two_Pointer_Technique.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\bin\Debug\Two_Pointer_Technique.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\bin\Debug\Two_Pointer_Technique.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\obj\Debug\Two_Pointer_Technique.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\obj\Debug\Two_Pointer_Technique.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\obj\Debug\Two_Pointer_Technique.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\Dict_Collection\Two_Pointer_Technique\Two_Pointer_Technique\obj\Debug\Two_Pointer_Technique.pdb
