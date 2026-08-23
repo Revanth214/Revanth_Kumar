@@ -29,7 +29,6 @@ namespace Dict_Count_program
             {
                 Console.WriteLine($"{variable.Key} : {variable.Value}");
             }
-
             Console.ReadLine();
         }
     }
