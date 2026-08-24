@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\bin\Debug\SecondADO_Code.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\bin\Debug\SecondADO_Code.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\bin\Debug\SecondADO_Code.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\obj\Debug\SecondADO_Code.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\obj\Debug\SecondADO_Code.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\obj\Debug\SecondADO_Code.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ADO.NET\SecondADO_Code\SecondADO_Code\obj\Debug\SecondADO_Code.pdb
