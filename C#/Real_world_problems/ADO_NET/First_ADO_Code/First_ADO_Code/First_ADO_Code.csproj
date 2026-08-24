@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67065FE8-D002-49B8-88DE-5D6B544561E5}</ProjectGuid>
+    <ProjectGuid>{F11E4A80-D916-4A93-885E-788F3F84D2C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Inheritance_Review</RootNamespace>
-    <AssemblyName>Inheritance_Review</AssemblyName>
+    <RootNamespace>First_ADO_Code</RootNamespace>
+    <AssemblyName>First_ADO_Code</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Inherit.cs" />
+    <Compile Include="EmployeeModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

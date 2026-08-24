@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\bin\Debug\First_ADO_Code.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\bin\Debug\First_ADO_Code.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\bin\Debug\First_ADO_Code.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\obj\Debug\First_ADO_Code.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\obj\Debug\First_ADO_Code.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\obj\Debug\First_ADO_Code.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\ADO_NET\First_ADO_Code\First_ADO_Code\obj\Debug\First_ADO_Code.pdb
