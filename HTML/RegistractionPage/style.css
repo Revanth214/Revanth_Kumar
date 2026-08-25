@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.registraction{
+    width: 350px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid rgb(237, 233, 233);
+}
+#txtusername{
+    font-style: italic;
+    color:rgb(23, 156, 189);
+}
+div{
+    border-style: groove;
+    border-width: 20px;
+    border-color: rgb(6, 152, 9);
+}
+.container{
+    background-color: rgb(241, 107, 6);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div,h2{
+    color:aqua;
+}

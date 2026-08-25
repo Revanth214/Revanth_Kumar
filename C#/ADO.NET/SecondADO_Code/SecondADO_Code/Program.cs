@@ -11,13 +11,13 @@ namespace SecondADO_Code
         static void Main(string[] args)
         {
             MovieDetails details = new MovieDetails();
-            List<MovieModel> movie = details.GetDetials();
-            foreach(MovieModel mv in movie)
+            List<MovieModel> movies = details.GetDetails();
+            foreach(MovieModel mv in movies)
             {
                 Console.WriteLine(mv.MovieID);
                 Console.WriteLine(mv.Title);
                 Console.WriteLine(mv.Genre);
-                Console.WriteLine(mv.StudiioName);
+                Console.WriteLine(mv.StudioName);
                 Console.WriteLine("===================");
             }
             Console.ReadLine();

@@ -11,6 +11,6 @@ namespace SecondADO_Code
         public int MovieID { get; set; }
         public string Title { get; set; }
         public string Genre { get; set; }
-        public string StudiioName { get; set; }
+        public string StudioName { get; set; }
     }
 }
