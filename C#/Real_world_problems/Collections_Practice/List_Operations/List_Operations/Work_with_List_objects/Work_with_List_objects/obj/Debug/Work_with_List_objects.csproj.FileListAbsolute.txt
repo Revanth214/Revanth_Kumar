@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\bin\Debug\Work_with_List_objects.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\bin\Debug\Work_with_List_objects.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\bin\Debug\Work_with_List_objects.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\obj\Debug\Work_with_List_objects.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\obj\Debug\Work_with_List_objects.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\obj\Debug\Work_with_List_objects.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\Collections_Practice\List_Operations\List_Operations\Work_with_List_objects\Work_with_List_objects\obj\Debug\Work_with_List_objects.pdb

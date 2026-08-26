@@ -1,7 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\obj\Debug\Inheritance_Review.csproj.CoreCompileInputs.cache
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\bin\Debug\Inheritance_Review.exe.config
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\bin\Debug\Inheritance_Review.exe
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\bin\Debug\Inheritance_Review.pdb
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\obj\Debug\Inheritance_Review.csproj.AssemblyReference.cache
-C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\obj\Debug\Inheritance_Review.csproj.CoreCompileInputs.cache
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\obj\Debug\Inheritance_Review.exe
 C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C#_Retrievel_Practice\Inheritance_Review\Inheritance_Review\obj\Debug\Inheritance_Review.pdb

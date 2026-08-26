@@ -1,0 +1,84 @@
+/*body{
+    justify-content:center;
+    display: flex;
+}
+th{
+    text-align: center;
+}
+.Registration{
+    padding: 30px;
+    border: 1px solid rgb(246, 249, 249);
+    
+}
+#my_button{
+    background-color: rgb(4, 68, 151);
+    color: rgb(246, 249, 249);
+}
+#table_heading{
+    color: maroon;
+}*/
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+}
+
+.Registration {
+    width: 380px;
+    padding: 15px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+    padding: 5px;
+}
+
+#table_heading {
+    color: maroon;
+    font-size: 20px;
+}
+
+td {
+    padding: 7px 5px;
+}
+
+td:first-child {
+    width: 150px;
+    color: #355d82;
+    font-weight: bold;
+}
+
+td:nth-child(2) {
+    width: 200px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select {
+    width: 190px;
+    height: 25px;
+    box-sizing: border-box;
+}
+
+.button_cell {
+    text-align: center;
+    padding-top: 12px;
+}
+.button_cell{
+    text-align: center;
+}
+#my_button {
+    background-color: rgb(4, 68, 151);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+}

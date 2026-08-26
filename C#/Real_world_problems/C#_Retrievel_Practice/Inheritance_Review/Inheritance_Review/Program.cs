@@ -58,14 +58,13 @@ namespace Inheritance_Review
     {
         static void Main(string[] args)
         {
-            Manager mg = new Manager(05, "Revanth", "revanth2487@gmail.com", 500000);
-            mg.DisplayDetails();
-            mg.ManageTeam();
+            //Manager mg = new Manager(05, "Revanth", "revanth2487@gmail.com", 500000);
+            //mg.DisplayDetails();
+            //mg.ManageTeam();
 
             Developer dp = new Developer(17, "Bharath", "bharath2357@gmail.com", 900000);
             dp.DisplayDetails();
             dp.WriteCode();
-
             Console.ReadLine();
         }
     }
