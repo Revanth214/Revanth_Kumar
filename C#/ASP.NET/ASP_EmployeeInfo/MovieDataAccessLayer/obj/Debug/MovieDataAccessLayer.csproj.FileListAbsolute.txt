@@ -1,0 +1,6 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\bin\Debug\MovieDataAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\bin\Debug\MovieDataAccessLayer.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\obj\Debug\MovieDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\obj\Debug\MovieDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\obj\Debug\MovieDataAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\MovieDataAccessLayer\obj\Debug\MovieDataAccessLayer.pdb

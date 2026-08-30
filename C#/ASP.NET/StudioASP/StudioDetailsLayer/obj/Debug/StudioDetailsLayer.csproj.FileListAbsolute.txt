@@ -1,0 +1,6 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\bin\Debug\StudioDetailsLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\bin\Debug\StudioDetailsLayer.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\obj\Debug\StudioDetailsLayer.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\obj\Debug\StudioDetailsLayer.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\obj\Debug\StudioDetailsLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\StudioASP\StudioDetailsLayer\obj\Debug\StudioDetailsLayer.pdb

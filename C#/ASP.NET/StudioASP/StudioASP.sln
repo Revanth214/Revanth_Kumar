@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37507.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioASP", "StudioASP\StudioASP.csproj", "{3DEB1BC8-184F-4104-8DA0-8496904A5F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioDetailsLayer", "StudioDetailsLayer\StudioDetailsLayer.csproj", "{F334ACF2-39A6-4324-99FF-2E2AD70C8910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEB1BC8-184F-4104-8DA0-8496904A5F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEB1BC8-184F-4104-8DA0-8496904A5F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEB1BC8-184F-4104-8DA0-8496904A5F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEB1BC8-184F-4104-8DA0-8496904A5F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F334ACF2-39A6-4324-99FF-2E2AD70C8910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F334ACF2-39A6-4324-99FF-2E2AD70C8910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F334ACF2-39A6-4324-99FF-2E2AD70C8910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F334ACF2-39A6-4324-99FF-2E2AD70C8910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F461678B-52E6-4704-942D-EC3EE3E63AD8}
+	EndGlobalSection
+EndGlobal

@@ -72,3 +72,7 @@ C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeI
 C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\obj\Debug\ASP_EmployeeInfo.csproj.CopyComplete
 C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\obj\Debug\ASP_EmployeeInfo.dll
 C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\obj\Debug\ASP_EmployeeInfo.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\bin\EmployeeDataAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\bin\EmployeeDataAccessLayer.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\bin\MovieDataAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\ASP_EmployeeInfo\ASP_EmployeeInfo\bin\MovieDataAccessLayer.pdb

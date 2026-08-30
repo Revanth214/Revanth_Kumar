@@ -1,0 +1,5 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\DepartmentASP\DepartmentDetailsLayer\bin\Debug\DepartmentDetailsLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\DepartmentASP\DepartmentDetailsLayer\bin\Debug\DepartmentDetailsLayer.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\DepartmentASP\DepartmentDetailsLayer\obj\Debug\DepartmentDetailsLayer.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\DepartmentASP\DepartmentDetailsLayer\obj\Debug\DepartmentDetailsLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\ASP.NET\DepartmentASP\DepartmentDetailsLayer\obj\Debug\DepartmentDetailsLayer.pdb
