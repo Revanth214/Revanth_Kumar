@@ -1,22 +1,24 @@
-h1{
-    color:Red;
-    font-size: 40px;
-    text-align: center;
+body{
+    background-color: black;
+    font-family: Arial;
 }
 .description{
+    line-height:1.6;
     box-sizing: border-box;
-    color:green;
+    color:white;
     font-size: 25px;
     border: 3px solid blue;
-    padding: 10px 20px 30px 40px;
-    background-color: orange;
-    margin: 20px 50px;
+    padding: 20px;
+    margin: 20px;
+    background-color: darkgray;
     width: 400px;
-    height: 10px;
-    font-family: initial;
 }
 #MainTitle{
-    color: purple;
+    letter-spacing:2px;
+    text-transform: uppercase;
+    color: #00ff88;
+    background-color: #121212;
+    font-weight: bold;
     font-size:45px;
     text-align: center;
 
