@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 2px solid blue;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+}
+.m14{
+    order: -1;
+}
+.awm{
+    order: -2;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\bin\Debug\Movie_Ticket_Booking_System.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\bin\Debug\Movie_Ticket_Booking_System.exe
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\bin\Debug\Movie_Ticket_Booking_System.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\obj\Debug\Movie_Ticket_Booking_System.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\obj\Debug\Movie_Ticket_Booking_System.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\obj\Debug\Movie_Ticket_Booking_System.exe
+C:\Users\cgang\Documents\Revanth_Kumar\Practical Scenarios\Movie_Ticket_Booking_System\Movie_Ticket_Booking_System\obj\Debug\Movie_Ticket_Booking_System.pdb
