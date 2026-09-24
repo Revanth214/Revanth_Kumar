@@ -1,0 +1,7 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\bin\Debug\Employee_Management_system_2.exe.config
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\bin\Debug\Employee_Management_system_2.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\bin\Debug\Employee_Management_system_2.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\obj\Debug\Employee_Management_system_2.csproj.AssemblyReference.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\obj\Debug\Employee_Management_system_2.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\obj\Debug\Employee_Management_system_2.exe
+C:\Users\cgang\Documents\Revanth_Kumar\C#\Real_world_problems\C# Assessments\Employee_Management_system_2\Employee_Management_system_2\obj\Debug\Employee_Management_system_2.pdb

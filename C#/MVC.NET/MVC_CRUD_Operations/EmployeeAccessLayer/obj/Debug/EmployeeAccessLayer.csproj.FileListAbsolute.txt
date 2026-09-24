@@ -1,0 +1,5 @@
+C:\Users\cgang\Documents\Revanth_Kumar\C#\MVC.NET\MVC_CRUD_Operations\EmployeeAccessLayer\bin\Debug\EmployeeAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\MVC.NET\MVC_CRUD_Operations\EmployeeAccessLayer\bin\Debug\EmployeeAccessLayer.pdb
+C:\Users\cgang\Documents\Revanth_Kumar\C#\MVC.NET\MVC_CRUD_Operations\EmployeeAccessLayer\obj\Debug\EmployeeAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cgang\Documents\Revanth_Kumar\C#\MVC.NET\MVC_CRUD_Operations\EmployeeAccessLayer\obj\Debug\EmployeeAccessLayer.dll
+C:\Users\cgang\Documents\Revanth_Kumar\C#\MVC.NET\MVC_CRUD_Operations\EmployeeAccessLayer\obj\Debug\EmployeeAccessLayer.pdb

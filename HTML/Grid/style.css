@@ -1,0 +1,30 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.container_2{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+}
+
+.container_3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100px 100px 100px;
+    gap: 20px;
+}
+
+.container_4{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.container_5{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(150px, 1fr));
+    gap: 50px;
+}
