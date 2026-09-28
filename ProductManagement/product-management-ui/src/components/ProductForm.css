@@ -1,0 +1,73 @@
+.form-card {
+  background: white;
+  max-width: 650px;
+  margin: 20px auto;
+  padding: 25px;
+  border-radius: 12px;
+  border: 1px solid #e5e9e2;
+  box-shadow: 0 5px 20px #1e3a1e12;
+}
+
+.form-card h2 {
+  margin: 0 0 8px;
+  color: #176b2c;
+}
+
+.form-description {
+  color: #777;
+  margin-bottom: 22px;
+}
+
+.form-card label {
+  display: block;
+  margin: 14px 0 7px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.form-card input,
+.form-card select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d8ded5;
+  border-radius: 7px;
+  background: #fbfcfa;
+}
+
+.form-card input:focus,
+.form-card select:focus {
+  outline: 2px solid #b8ddb8;
+  border-color: #16833b;
+}
+
+.form-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.save-button,
+.cancel-button {
+  padding: 11px 18px;
+  border-radius: 7px;
+  border: 0;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.save-button {
+  background: #16833b;
+  color: white;
+}
+
+.cancel-button {
+  background: #edf0e9;
+  color: #333;
+}
+
+.form-error {
+  color: #bd2f2f;
+  background: #fff0f0;
+  padding: 10px;
+  border-radius: 6px;
+}

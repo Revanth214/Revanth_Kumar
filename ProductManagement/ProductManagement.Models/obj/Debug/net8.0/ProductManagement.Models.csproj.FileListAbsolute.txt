@@ -1,0 +1,11 @@
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.deps.json
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfoInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfo.cs
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\refint\ProductManagement.Models.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Models\obj\Debug\net8.0\ref\ProductManagement.Models.dll

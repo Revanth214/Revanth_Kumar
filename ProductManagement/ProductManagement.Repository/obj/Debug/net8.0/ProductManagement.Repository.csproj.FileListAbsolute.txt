@@ -1,0 +1,15 @@
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\bin\Debug\net8.0\ProductManagement.Repository.deps.json
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\bin\Debug\net8.0\ProductManagement.Repository.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\bin\Debug\net8.0\ProductManagement.Repository.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.AssemblyInfo.cs
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductM.A27C7EB8.Up2Date
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\refint\ProductManagement.Repository.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ProductManagement.Repository.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Repository\obj\Debug\net8.0\ref\ProductManagement.Repository.dll

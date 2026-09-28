@@ -1,0 +1,17 @@
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.deps.json
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Repository.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Repository.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.AssemblyReference.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfoInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfo.cs
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductM.9B44A000.Up2Date
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\refint\ProductManagement.Services.dll
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\cgang\source\repos\ProductManagement\ProductManagement.Services\obj\Debug\net8.0\ref\ProductManagement.Services.dll
