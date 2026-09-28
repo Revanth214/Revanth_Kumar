@@ -142,6 +142,10 @@ B.Tech – Artificial Intelligence and Data Science
 
 [GitHub Profile](https://github.com/Revanth214)
 
+## Dashboard Preview
+
+![Stockora Dashboard](screenshots/stockora-dashboard.png)
+
 ---
 
 *Stockora is a full-stack learning and development project built to apply practical concepts in ASP.NET Core, Entity Framework Core, SQL Server, and React.*
