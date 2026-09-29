@@ -148,16 +148,6 @@ function ProductList() {
 
       <main className="dashboard-main">
         <header className="dashboard-topbar">
-          <div className="topbar-search">
-            <span>⌕</span>
-            <input
-              type="text"
-              placeholder="Search products..."
-              value={searchText}
-              onChange={(event) => setSearchText(event.target.value)}
-              aria-label="Search products"
-            />
-          </div>
           <div className="profile">
             <span className="profile-avatar">R</span>
             <span>Revanth Kumar</span>
